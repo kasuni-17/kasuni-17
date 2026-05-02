@@ -1,4 +1,4 @@
-# HELLO! ❤️
+# HELLO! (●'◡'●)
 
 <p align="center">
   <img src="image1.png" width="400"/>
