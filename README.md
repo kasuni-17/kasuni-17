@@ -1,4 +1,7 @@
 # 👋 Hi there, I'm Kasuni!
+<p align="center">
+  <img src="image1.png" width="400"/>
+</p>
 
 ### 💻 Information Technology Student | Continuous Learner
 
