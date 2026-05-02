@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Kasuni!
+# HELLO!
+
 <p align="center">
   <img src="image1.png" width="400"/>
 </p>
@@ -10,8 +11,8 @@
 ## 🚀 About Me
 
 🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology
-💡 Passionate about Full-Stack Web Development & Software Engineering
 🔭 Working on web apps, Java projects & system design  
+💡 Passionate about Full-Stack Web Development & Software Engineering
 🌱 Currently learning Spring Boot, MERN Stack & Cloud Technologies  
 👯 Looking to collaborate on open-source & real-world projects  
 🤝 Open to internship opportunities in Software Development  
