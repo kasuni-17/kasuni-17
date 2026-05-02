@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology <br>
-🔭 Working on web apps, Java projects & system design <br>  
 💡 Passionate about Full-Stack Web Development & Software Engineering <br>
+🔭 Working on web apps, Java projects & system design <br>
 🌱 Currently learning Spring Boot, MERN Stack & Cloud Technologies <br> 
 👯 Looking to collaborate on open-source & real-world projects<br>
 🤝 Open to internship opportunities in Software Development <br> 
