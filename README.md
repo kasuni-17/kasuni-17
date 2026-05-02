@@ -1,4 +1,4 @@
-# HELLO!
+# HELLO! ❤️
 
 <p align="center">
   <img src="image1.png" width="400"/>
@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology
-🔭 Working on web apps, Java projects & system design  
-💡 Passionate about Full-Stack Web Development & Software Engineering
-🌱 Currently learning Spring Boot, MERN Stack & Cloud Technologies  
-👯 Looking to collaborate on open-source & real-world projects  
-🤝 Open to internship opportunities in Software Development  
+🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology <br>
+🔭 Working on web apps, Java projects & system design <br>  
+💡 Passionate about Full-Stack Web Development & Software Engineering <br>
+🌱 Currently learning Spring Boot, MERN Stack & Cloud Technologies <br> 
+👯 Looking to collaborate on open-source & real-world projects<br>
+🤝 Open to internship opportunities in Software Development <br> 
 
 ⚡ Fun fact: I love turning ideas into real-world applications through code!
 
