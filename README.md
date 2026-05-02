@@ -4,13 +4,11 @@
   <img src="image1.png" width="400"/>
 </p>
 
-### 💻 Information Technology Student  |  📚 Continuous Learner
-
 ---
 
 ## 🚀 About Me
 
-🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology <br>
+🎓 Undergraduate at SLIIT | BSc (Hons) in Information Technology | Continuous Learner <br>
 💡 Passionate about Full-Stack Web Development & Software Engineering <br>
 🔭 Working on web apps, Java projects & system design <br>
 🌱 Currently learning Spring Boot, MERN Stack & Cloud Technologies <br> 
