@@ -58,11 +58,11 @@
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kasuni-lakshika/   
-- 🐙 GitHub: https://github.com/kasuni-17   
-- 📧 Email: kasuniattygala@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kasuni%20Lakshika-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kasuni-lakshika/)
+[![GitHub](https://img.shields.io/badge/GitHub-kasuni--17-black?style=for-the-badge\&logo=github)](https://github.com/kasuni-17)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kasuniattygala@gmail.com)
 
 ---
 
