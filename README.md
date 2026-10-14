@@ -60,9 +60,9 @@
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/kasuni-lakshika/
-🐙 GitHub: https://github.com/kasuni-17
-📧 Email: kasuniattygala@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kasuni-lakshika/ </br>
+🐙 GitHub: https://github.com/kasuni-17</br>
+📧 Email: kasuniattygala@gmail.com</br>
 
 ---
 
